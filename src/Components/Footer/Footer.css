@@ -37,7 +37,7 @@
   transition: 0.3s;
 }
 
-/* Responsiv Design */
+/* Responsive Design */
 @media (max-width: 1024px) {
   .footer {
     margin: 40px 50px;

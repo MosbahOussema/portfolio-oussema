@@ -11,7 +11,7 @@ function Hero() {
   const handleResumeDownload = () => {
     // Lien vers votre CV sur Google Drive
     const cvDriveLink =
-      "https://drive.google.com/file/d/1lsw-k8yyLAVcbPAt_3-ApJVGniqqjtBG/view?usp=drive_link";
+      "https://drive.google.com/file/d/1lydIHF_eY4B7vJgkqXDoIJ5DKv8qkkID/view?usp=drive_link";
 
     // Ouvrir dans un nouvel onglet pour téléchargement
     window.open(cvDriveLink, "_blank");

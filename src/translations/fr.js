@@ -17,7 +17,7 @@ export const fr = {
   about: {
     title: "À propos de moi",
     description1:
-      "Je suis un développeur Frontend qualifié avec plus de deux ans d'expérience, contribuant au succès d'organisations de premier plan en fournissant des solutions de haute qualité centrées sur l'utilisateur.",
+      "Je suis un développeur Frontend qualifié avec plus de trois ans d'expérience, contribuant au succès d'organisations de premier plan en fournissant des solutions de haute qualité centrées sur l'utilisateur.",
     description2:
       "Ma passion pour le développement frontend se démontre à la fois par mon expérience extensive et l'engagement et l'enthousiasme inébranlables que j'apporte à chaque projet.",
     skills: {
@@ -52,7 +52,7 @@ export const fr = {
     service4: {
       title: "Intégration d'APIs & Services Tiers",
       description:
-        "Connexion fluide à des APIs REST, systèmes de paiement (Stripe, MyFatoorah), outils de notification ou gestion de contenu.",
+        "Connexion fluide aux API REST, aux systèmes de paiement (Stripe, MyFatoorah), aux outils de notification ou aux systèmes de gestion de contenu.",
     },
     service5: {
       title: "Performance & Sécurité",

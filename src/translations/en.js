@@ -17,7 +17,7 @@ export const en = {
   about: {
     title: "About Me",
     description1:
-      "I am a skilled Frontend Developer with over two years of experience, contributing to the success of leading organizations by delivering high-quality, user-centric solutions.",
+      "I am a skilled Frontend Developer with over three years of experience, contributing to the success of leading organizations by delivering high-quality, user-centric solutions.",
     description2:
       "My passion for frontend development is demonstrated through both my extensive experience and the unwavering commitment and enthusiasm I bring to every project.",
     skills: {
@@ -52,7 +52,7 @@ export const en = {
     service4: {
       title: "API & Third-Party Services Integration",
       description:
-        "Smooth connection to REST APIs, payment systems (Stripe, MyFatoorah), notification tools or content management.",
+        "Smooth connection to REST APIs, payment systems (Stripe, MyFatoorah), notification tools, or content management systems.",
     },
     service5: {
       title: "Performance & Security",
